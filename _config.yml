@@ -18,19 +18,17 @@ title: Suraj Sharma | sudsuraj | Cyber Security
 
 tagline: Cyber Security Blog and Articles
 
-description: >- # used by seo meta and the atom feed
-  Cyber Security Blog and Articles.
+description: >- Cyber Security Blog and Articles.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://rcen1nja.github.io"
 
 github:
-  username: rcen1nja # change to your github username
+  username: rcen1nja
 
 twitter:
-  username: sudosuraj # change to your twitter username
-
+  username: sudosuraj
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -38,16 +36,16 @@ social:
   email: ninjarce@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/sudosuraj # change to your twitter homepage
-    - https://github.com/rcen1nja # change to your github homepage
+    - https://twitter.com/sudosuraj
+    - https://github.com/rcen1nja
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/sudosuraj
+    - https://www.linkedin.com/in/sudosuraj
 
 # Site Verification Settings
 webmaster_verifications:
   google: 46Qgw9jakZKgrvKY2utJ5K_NOAZx8LbJyMFZ61kIlh8
-  bing: # fill in your Bing verification code
+  bing: 345AD45146E0ED48E8668FA723FA4720
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
