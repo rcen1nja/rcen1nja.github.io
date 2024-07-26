@@ -14,9 +14,9 @@ timezone: Asia/Calcutta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Suraj Sharma | sudsuraj | Cyber Security
+title: Suraj Sharma | Cyber Security
 
-tagline: Cyber Security Blog and Articles
+tagline: sudosuraj , bug bounty hunter
 
 description: >- Cyber Security Blog and Articles.
 
@@ -84,7 +84,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: # dark
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -94,7 +94,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/163507826?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
